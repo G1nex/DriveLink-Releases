@@ -1,9 +1,0 @@
-{
-  "version": 1,
-  "vehicles": [
-    {
-      "vinHash": "4D2A1EFD7F3DD732CE4A86932CF1908DB613F4ABA8500C4AE9E49BBC26F1AB0B",
-      "modules": "Can, IBus, Cantcu, ClusterText, CanTransmit, Engine, Transmission, Chassis"
-    }
-  ]
-}
