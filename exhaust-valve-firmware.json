@@ -3,8 +3,8 @@
   "moduleType": 4,
   "hardwareRevision": 1,
   "protocolVersion": 2,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "size": 760976,
-  "sha256": "2e02b93600fa603f17721600c64863dbc3624886d4c4e3028dc2f5b2c1a55ea4",
+  "sha256": "e9009cac0b7f74077d72da7ee3ce62ca1d434c55be1d36d9ed1360ac0c968735",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/latest/download/DriveLink.ExhaustValveController.bin"
 }
