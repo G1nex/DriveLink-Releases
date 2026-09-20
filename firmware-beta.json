@@ -1,0 +1,9 @@
+{
+  "version": "0.2.27",
+  "size": 896368,
+  "sha256": "c8c0763f162df0cf7446199eb868c3d6ff80102eff348f147e375e69e50f10a7",
+  "url": "https://github.com/G1nex/DriveLink-Releases/releases/latest/download/DriveLink.Firmware-beta.bin",
+  "channel": "beta",
+  "branch": "feature/beta-update-channel",
+  "commitSha": "8e46b011c48a9d4be61a6530119fc2653744c2d6"
+}
