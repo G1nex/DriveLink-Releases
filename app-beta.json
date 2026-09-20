@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0-beta.1243.feature-beta-update-channel.29384be",
+  "versionCode": 1700001243,
+  "size": 17085818,
+  "sha256": "9eb572c08ee14e0374449c53a030b160fcecb06e999c85ee1f241dcaf9f6ff53",
+  "url": "https://github.com/G1nex/DriveLink-Releases/releases/latest/download/DriveLink-beta.apk",
+  "channel": "beta",
+  "branch": "feature/beta-update-channel",
+  "commitSha": "29384be6111a2f178bc90686066d6d3b8663c551"
+}
