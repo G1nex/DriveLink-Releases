@@ -46,5 +46,16 @@ are usable through Pages; use the local ZIP for live connections.
 
 Developers: [Studio publication guide in the source repository](https://github.com/G1nex/DriveLink/blob/feature/gateway-wifi-studio-connectivity/docs/studio-publishing.md).
 
+## iPhone Gateway certificate setup
+
+[DriveLink Studio Certificate Setup](https://g1nex.github.io/DriveLink-Releases/studio/beta/certificate)
+explains how to download an iOS local-CA profile, manually enable trust in
+iOS Settings and test WSS. The download button appears **only after the
+Gateway owner explicitly uploads their own public CA** to the Pages
+`trust/` directory. No shared CA, Gateway private key or root CA private
+key is distributed with Studio. The displayed SHA-256 fingerprint must be
+checked against the one generated on the trusted setup computer before
+installing a root CA certificate.
+
 Vehicle registry metadata is built and signed by the private source repo.
 No signing keys are kept in this repository.
