@@ -1,9 +1,9 @@
 {
-  "version": "0.2.30",
-  "size": 1038096,
-  "sha256": "4c0dd153835d75df3ab9b0989fc1d284c6f0c805c8d70848f6356811f2e011c7",
+  "version": "0.2.31",
+  "size": 1038512,
+  "sha256": "8f653dcb6fea6a732cb4f481dda00bc68c0315c6673e3cab1246462f9ccc3e3b",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/latest/download/DriveLink.Firmware-beta.bin",
   "channel": "beta",
   "branch": "feature/gateway-wifi-studio-connectivity",
-  "commitSha": "7f4bc6448cfa686f187777b627e6c2d60924747f"
+  "commitSha": "46fe4fb0410d31bf751714a7203c1069a0c8fb7b"
 }
