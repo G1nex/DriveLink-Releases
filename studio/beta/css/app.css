@@ -2130,3 +2130,45 @@ body {
         width: 100%;
     }
 }
+
+/* Certificate setup: compact enough for iPhone Safari. */
+.certificate-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 16px 0;
+}
+
+.certificate-link {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 11px 13px;
+    border: 1px solid #455d72;
+    border-radius: 6px;
+    color: #e8edf2;
+    background: #1d2935;
+}
+
+.certificate-link:hover {
+    border-color: #94a8ba;
+}
+
+.certificate-fingerprint dd {
+    min-width: 0;
+    overflow-wrap: anywhere;
+    user-select: all;
+}
+
+.certificate-steps {
+    display: grid;
+    gap: 10px;
+    padding-left: 22px;
+    line-height: 1.5;
+}
+
+.certificate-steps li {
+    padding-left: 4px;
+}
