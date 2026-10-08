@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DriveLink">
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#10161d"/>
+  <path fill="#f7fafc" fill-rule="evenodd"
+        d="M14 17H29L36 19L41 24L43 31L41 39L36 45L28 47H14Z M23 24H28L34 28L35 32L34 37L29 40H23Z"/>
+  <path fill="#c91720" d="M46 17H54V39H60V47H46Z"/>
+</svg>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="/DriveLink-Releases/studio/beta/" />
+    <title>DriveLink Studio</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <meta name="theme-color" content="#10161d" />
+    <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+    <div id="app">
+        <div class="loading">Starting DriveLink Studio…</div>
+    </div>
+    <div id="blazor-error-ui">
+        An unexpected error occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">×</a>
+    </div>
+    <script>
+(() => {
+  const saved = sessionStorage.getItem("drivelink.studio.pages.redirect");
+  const base = new URL(document.baseURI).pathname;
+  if (saved && saved.startsWith(base)) {
+    sessionStorage.removeItem("drivelink.studio.pages.redirect");
+    history.replaceState(null, "", saved);
+  }
+})();
+</script>
+    <script src="_framework/blazor.webassembly.js"></script>
+</body>
+</html>

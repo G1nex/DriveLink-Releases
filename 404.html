@@ -1,0 +1,14 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<title>DriveLink Studio</title></head><body><script>
+(() => {
+  const match = location.pathname.match(/^\/[^/]+\/studio\/(beta|stable)\/.*$/);
+  if (match) {
+    sessionStorage.setItem("drivelink.studio.pages.redirect",
+      location.pathname + location.search + location.hash);
+    location.replace(location.pathname.slice(0, location.pathname.indexOf("/studio/"))
+      + "/studio/" + match[1] + "/");
+  } else {
+    location.replace("./");
+  }
+})();
+</script><p>Returning to DriveLink Studio…</p></body></html>
