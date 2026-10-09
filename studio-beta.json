@@ -1,8 +1,8 @@
 {
   "channel": "beta",
-  "commitSha": "a48e8e420fa9b8458abe6444b6b90c08c90b5617",
+  "commitSha": "35154a51695615f1a201190c4093ae4179631470",
   "branch": "feature/gateway-wifi-studio-connectivity",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/studio-web-beta/DriveLink.Studio-beta.zip",
-  "sha256": "7318970420c1b02a881fc6612fd8b04b362ab39cef87e4e43b2278052291ae7d",
-  "size": 12009497
+  "sha256": "6015c838dc866287a8b038af25ba6bf7b36470040289d3758304b2b6d5f51b60",
+  "size": 12464670
 }
