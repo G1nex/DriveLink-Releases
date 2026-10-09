@@ -6,6 +6,10 @@
     <base href="/DriveLink-Releases/studio/beta/" />
     <title>DriveLink Studio</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="icons/icon-192.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="DriveLink Studio Beta" />
     <meta name="theme-color" content="#10161d" />
     <link rel="stylesheet" href="css/app.css" />
 </head>
@@ -13,11 +17,17 @@
     <div id="app">
         <div class="loading">Starting DriveLink Studio…</div>
     </div>
+    <div id="studio-pwa-update" class="pwa-update-banner" role="status" hidden>
+        <span>A Studio update is ready. Save or stop recordings before reloading.</span>
+        <button id="studio-pwa-apply-update" type="button">APPLY UPDATE</button>
+        <button id="studio-pwa-later" type="button">LATER</button>
+    </div>
     <div id="blazor-error-ui">
         An unexpected error occurred.
         <a href="" class="reload">Reload</a>
         <a class="dismiss">×</a>
     </div>
+    <script src="js/storage.js"></script>
     <script>
 (() => {
   const saved = sessionStorage.getItem("drivelink.studio.pages.redirect");
@@ -29,5 +39,6 @@
 })();
 </script>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script src="js/pwa.js" defer></script>
 </body>
 </html>
