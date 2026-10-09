@@ -1,7 +1,10 @@
 {
-  "version": "1.0.0-dev.1793",
-  "versionCode": 1793,
-  "size": 17044858,
-  "sha256": "9421db0bfada2ca9013704f885f36a94e0656aa92d2f21c0d6126ba1beae49bc",
-  "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app/DriveLink.apk"
+  "version": "1.0.0-dev.1858",
+  "versionCode": 1700002256,
+  "size": 17085818,
+  "sha256": "93ddf4e5f53b556fb43800e978ec0498a56da43de24cbca3dac7b625c4321d9d",
+  "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app/DriveLink.apk",
+  "channel": "stable",
+  "branch": "master",
+  "commitSha": "129b2dbe6e497d9a1e4575a972c9e068aed37ed6"
 }
