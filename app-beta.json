@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-beta.2453.feature-ibus-resler-v7.dc28f8f",
-  "versionCode": 1700002453,
+  "version": "1.0.0-beta.2454.feature-ibus-resler-v7.c84bb73",
+  "versionCode": 1700002454,
   "size": 17135878,
-  "sha256": "5828b2e187a8b658cf3c9a32da8545d07db8af314458880414c1af95dd4dee53",
+  "sha256": "a3024a5dbffb6cc67bc5e08c3aa0e0feb133c3804168fbb3c8431090f305b648",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app-beta/DriveLink-beta.apk",
   "channel": "beta",
   "branch": "feature/ibus-resler-v7",
-  "commitSha": "dc28f8f4ff9a608ce2a6dfd72c82f5b1ac61a76e"
+  "commitSha": "c84bb739e2c7616a40b1ed737286f98c5df268c8"
 }
