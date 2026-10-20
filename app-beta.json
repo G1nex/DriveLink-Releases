@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-beta.2257.feature-gateway-wifi-studio-connectivity.1f34c67",
-  "versionCode": 1700002257,
-  "size": 17380448,
-  "sha256": "34e72249fe9105f77ddb0cf3e34d4bae5627948df7bdf95f262eb3bbf0470bc7",
+  "version": "1.0.0-beta.2451.feature-ibus-resler-v7.1f7e70e",
+  "versionCode": 1700002451,
+  "size": 17123590,
+  "sha256": "1c3d19ea295f1f165a9911ec0f6f51e7e1aedc43c0021a411f39dd8475ebddde",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app-beta/DriveLink-beta.apk",
   "channel": "beta",
-  "branch": "feature/gateway-wifi-studio-connectivity",
-  "commitSha": "1f34c672374ba3d3a173f98c318d45779564ecc5"
+  "branch": "feature/ibus-resler-v7",
+  "commitSha": "1f7e70e065907ee9d20ab2790f6e12b38123998d"
 }
