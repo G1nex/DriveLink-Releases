@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-beta.2472.feature-car-view.2b087b1",
-  "versionCode": 1700002472,
-  "size": 18641998,
-  "sha256": "bf7c5b9d46d1c1d7ea09cb562120c292e4b5d13216540e7e7ebdbbab1825bd15",
+  "version": "1.0.0-beta.2477.beta-headunit-ui.3d64b5a",
+  "versionCode": 1700002477,
+  "size": 18691305,
+  "sha256": "1dce77d85291c22838163b66afffbfd374e5d64808fb4d95aa7cc2b062963c49",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app-beta/DriveLink-beta.apk",
   "channel": "beta",
-  "branch": "feature/car-view",
-  "commitSha": "2b087b1be0e3c1e39cea06720cb49c0233d3d862"
+  "branch": "beta/headunit-ui",
+  "commitSha": "3d64b5ad93149a241b228af0b5c736607020dba3"
 }
