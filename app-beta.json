@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-beta.2477.beta-headunit-ui.3d64b5a",
-  "versionCode": 1700002477,
-  "size": 18691305,
-  "sha256": "1dce77d85291c22838163b66afffbfd374e5d64808fb4d95aa7cc2b062963c49",
+  "version": "1.0.0-beta.2486.fix-pdc-overlay.4fffacd",
+  "versionCode": 1700002486,
+  "size": 18724073,
+  "sha256": "1f390f902e02db50ba27d9edf28f452695b59b19bd0b3f6ce7cb10e951e26775",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app-beta/DriveLink-beta.apk",
   "channel": "beta",
-  "branch": "beta/headunit-ui",
-  "commitSha": "3d64b5ad93149a241b228af0b5c736607020dba3"
+  "branch": "fix/pdc-overlay",
+  "commitSha": "4fffacd474c20efc6738dec1f5b43c0c3f955468"
 }
