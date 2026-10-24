@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-beta.2487.master.4fffacd",
-  "versionCode": 1700002487,
-  "size": 18724073,
-  "sha256": "bb01c4d3f9761d9f5b0894770d7635b85ebdc6aaf40ada3f383bf6e731123125",
+  "version": "1.0.0-beta.2489.fix-pdc-status.175aa34",
+  "versionCode": 1700002489,
+  "size": 18732265,
+  "sha256": "976b159ab255b560d39c11cce0a37f5e3b31746d7b6137fae9537dfa36c1c3e4",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app-beta/DriveLink-beta.apk",
   "channel": "beta",
-  "branch": "master",
-  "commitSha": "4fffacd474c20efc6738dec1f5b43c0c3f955468"
+  "branch": "fix/pdc-status",
+  "commitSha": "175aa34312d5fb8c64eea9fb04175ea324cbd769"
 }
