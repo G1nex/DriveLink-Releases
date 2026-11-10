@@ -1,9 +1,9 @@
 {
-  "version": "0.2.34",
-  "size": 1136880,
-  "sha256": "393a77af466ba240564dbbc3652c3ed8f04c714f15a8e550b649848c4db95b03",
+  "version": "0.2.35",
+  "size": 1138656,
+  "sha256": "d1f0ad3f5f265fce400ef1975d050a0994f519c3f045aeb9c9e51748ddb5c283",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/gateway-firmware-beta/DriveLink.Firmware-beta.bin",
   "channel": "beta",
-  "branch": "feature/diagnostics-kline",
-  "commitSha": "cf2cf77e119d498de062b595ddb242ea02951a07"
+  "branch": "claude/project-thread-f6xu2s",
+  "commitSha": "a7b0a1da6426b9bbf630cd302ed818734a16f52a"
 }
