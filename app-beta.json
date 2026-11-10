@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-beta.2522.feature-diagnostics-kline.cf2cf77",
-  "versionCode": 1700002522,
-  "size": 18879913,
-  "sha256": "0b43b7c2263dc3ef30debb31785e697e8863562db03b90f587f8b96eff6fccc3",
+  "version": "1.0.0-beta.2549.claude-project-thread-f6xu2s.cf13cf1",
+  "versionCode": 1700002549,
+  "size": 19019177,
+  "sha256": "3565395d390d7c1675135dbc0bfe03b319690ec6c7402ff6dbc70caf3c39056e",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/android-app-beta/DriveLink-beta.apk",
   "channel": "beta",
-  "branch": "feature/diagnostics-kline",
-  "commitSha": "cf2cf77e119d498de062b595ddb242ea02951a07"
+  "branch": "claude/project-thread-f6xu2s",
+  "commitSha": "cf13cf12072caccb21683f40e8ee3916a804d028"
 }
