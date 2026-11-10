@@ -1,8 +1,8 @@
 {
   "channel": "beta",
-  "commitSha": "2e436057ceba98307cd2e9c8f13c95b390bfc89d",
+  "commitSha": "b5f3f62291283ee539ff8b385a2ad81b3db92d69",
   "branch": "master",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/studio-web-beta/DriveLink.Studio-beta.zip",
-  "sha256": "e24765a7f24c09858fc5fe0341a63b09c04b2a9aaf080d616f03197cf8446e36",
-  "size": 12032018
+  "sha256": "0900d38c34785ca474c83676611a0514c2b573cebc4a771c98b881f57f7078e9",
+  "size": 12032744
 }
