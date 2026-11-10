@@ -1,9 +1,9 @@
 {
-  "version": "0.2.38",
-  "size": 1139792,
-  "sha256": "25ae5715e321bdb5df401107c701839aeed63e4419a96c7d75b0fcdba13e1326",
+  "version": "0.2.39",
+  "size": 1140672,
+  "sha256": "caf15d8f17e54097317ddfe2f1335dbd7800e1494eae6d3429818aaddcf8d77a",
   "url": "https://github.com/G1nex/DriveLink-Releases/releases/download/gateway-firmware-beta/DriveLink.Firmware-beta.bin",
   "channel": "beta",
-  "branch": "claude/project-thread-f6xu2s",
-  "commitSha": "4327af50a73ccf3e014e27a0b45428a5f395926c"
+  "branch": "master",
+  "commitSha": "11b5cda2bfc0af9a2d48f422d55256badd480d3a"
 }
